@@ -27,9 +27,9 @@ To run the OasisPrompt App locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/oasisprompt.git
    cd oasisprompt
-Install dependencies:
 
- bash
+   
+Install dependencies:
 npm install
 
 Configure Google Auth and MongoDB:
@@ -38,9 +38,17 @@ Set up a Google Developer Console project and obtain OAuth credentials.
 Set up a MongoDB instance and update the connection details in the backend configuration.
 Run the development server:
 
-bash
+
 npm start
+
+
 Open your browser and visit http://localhost:3000.
+
+
+
+
+
+
 
 Contributing
 Contributions are welcome! If you'd like to contribute to the OasisPrompt App, please follow our contribution guidelines.
