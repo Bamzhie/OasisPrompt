@@ -29,16 +29,16 @@ To run the OasisPrompt App locally, follow these steps:
    cd oasisprompt
 Install dependencies:
 
-   ```bash
-   npm install 
+ bash
+npm install
+
 Configure Google Auth and MongoDB:
 
 Set up a Google Developer Console project and obtain OAuth credentials.
 Set up a MongoDB instance and update the connection details in the backend configuration.
 Run the development server:
 
-```bash
-Copy code
+bash
 npm start
 Open your browser and visit http://localhost:3000.
 
